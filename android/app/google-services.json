@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "258163756139",
+    "project_id": "phramacies",
+    "storage_bucket": "phramacies.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:258163756139:android:a29f393809d5fbfcef352e",
+        "android_client_info": {
+          "package_name": "com.example.pharmacies"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "258163756139-hb6an4g28jmsttsdco15urcjj19room1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-4pLo6v8huQTreJSyj9SLjP-ZL1I-fbg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "258163756139-hb6an4g28jmsttsdco15urcjj19room1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
